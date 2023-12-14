@@ -2271,7 +2271,7 @@ position: relative;
 /*Mobile*/
 @media (max-width:768px) {
   .flower-1 {
-    height: 8%;
+    height: 2%;
   }
   .flower-2-left{
     left: -20px;
