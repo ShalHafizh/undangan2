@@ -2271,7 +2271,7 @@ position: relative;
 /*Mobile*/
 @media (max-width:768px) {
   .flower-1 {
-    height: 2%;
+    height: 10%;
   }
   .flower-2-left{
     left: -20px;
@@ -2292,7 +2292,7 @@ position: relative;
     bottom: 5%;
   }
   .flower-bukutamu-right{
-    height: 25%;
+    height: 10%;
   }
   .flower-bukutamu-left{
     height: 20%;
